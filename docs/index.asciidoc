@@ -1,0 +1,5 @@
+= Puppetbeat Docs
+
+Welcome to the Puppetbeat documentation.
+
+

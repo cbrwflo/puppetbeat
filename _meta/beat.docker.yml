@@ -1,0 +1,2 @@
+puppetbeat:
+  period: 1s
